@@ -7,10 +7,11 @@
 </p>
 
 <p align="center">
-  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/USER/REPO?logo=git&style=for-the-badge">
-  <img alt="Repo Size"   src="https://img.shields.io/github/repo-size/USER/REPO?style=for-the-badge">
-  <img alt="License"     src="https://img.shields.io/github/license/USER/REPO?style=for-the-badge">
+  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/skybluesharkk/Capstone-2025-team-30?logo=git&style=for-the-badge">
+  <img alt="Repo Size"   src="https://img.shields.io/github/repo-size/skybluesharkk/Capstone-2025-team-30?style=for-the-badge">
+  <img alt="License"     src="https://img.shields.io/github/license/skybluesharkk/Capstone-2025-team-30?style=for-the-badge">
 </p>
+
 
 ---
 
